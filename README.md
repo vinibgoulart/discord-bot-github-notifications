@@ -48,7 +48,8 @@ yarn start
 #### Chanel
 Commands in a chanel
 - `/notifications`: fetch all github .env account notifications
-- `/ping`: just a ping :O
+- `/ping`: just a ping 🙂
 
-### DM
+#### DM
+Commands in a private
 - `/notifications`: send your personal access token and to fetch your notifications
